@@ -1,0 +1,31 @@
+{
+  "name": "Masar C1 English Mastery",
+  "short_name": "Masar C1",
+  "description": "Personal B1-B2 to C1 English Learning App with Arabic Support, Leitner Flashcards, Graded Reading, Shadowing, Video Player, Focus Music, and Active AI Tutor.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f2",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
